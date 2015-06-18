@@ -3,3 +3,6 @@ I'm a software developer, who is learning about agile methodologies, and more sp
 
 ### SCRUM Framework
 ![SCRUM explained](https://www.scrumalliance.org/scrum/media/ScrumAllianceMedia/PageGraphics/ScrumExplained-4-620.jpg "SCRUM framework in one image")
+
+### Manifesto for agile software development
+![ Manifesto for agile software development](http://blog.scrum.org/wp-content/uploads/2015/05/agile_manifest.png "Manifesto for agile software development")
