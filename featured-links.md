@@ -9,3 +9,10 @@ List of interesting links about agile methodologies and SCRUM.
 - [SCRUM in one page | Spanish](http://www.dosideas.com/noticias/metodologias/981-scrum-en-1-sola-pagina.html)
 - [SCRUM Description | PDF](http://agileatlas.org/images/uploads/corescrum-es.pdf)
 
+## Related links
+- [User Stories](#user-stories) 
+
+### User Stories
+- [Characteristics of a good user story | scrumalliance.org (Spanish)](https://www.scrumalliance.org/community/articles/2013/august/caracteristicas-de-una-buena-historia-de-usuario)
+
+
